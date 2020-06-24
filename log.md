@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-### Day 1: June 27, Monday
+### Day 1: June 24, Wednesday
 
 **Today's Progress**: Today, I started to learn React and completed the Tic-Tac-Toe tutorial on the React JS website.
 
