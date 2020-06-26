@@ -7,3 +7,16 @@
 
 **Link(s) to work**
 1. [React Tic-Tac-Toe](https://reactjs.org/tutorial/tutorial.html)
+
+### Day 2: June 26, Friday
+
+**Today's Progress**: I had to pass yesterday because of my terrible toothache. 
+Today, I finished 20 chapters from React section 
+@freeCodeCamp
+ 
+
+**Thoughts** : Now everything is almost okay about props and components.
+
+**Link(s) to work**
+1. [React freeCodeCamp](https://www.freecodecamp.org/learn)
+
