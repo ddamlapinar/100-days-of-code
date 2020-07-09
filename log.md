@@ -20,3 +20,14 @@ Today, I finished 20 chapters from React section
 **Link(s) to work**
 1. [React freeCodeCamp](https://www.freecodecamp.org/learn)
 
+
+### I am now starting challenge again from the begining.
+### ----------------------------------------------------
+
+### Day 1: July 9, Thursday
+
+**Today's Progress**: Learned about React Lifecycle methods and practiced on @freeCodeCamp also learned about some JS array methods such as filter,map,find
+
+**Thoughts** : I'm getting familiar with array methods and it seems they are really usefull and I'll need to use it somewhere soon.
+ 
+
