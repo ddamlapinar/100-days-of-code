@@ -29,5 +29,15 @@ Today, I finished 20 chapters from React section
 **Today's Progress**: Learned about React Lifecycle methods and practiced on @freeCodeCamp also learned about some JS array methods such as filter,map,find
 
 **Thoughts** : I'm getting familiar with array methods and it seems they are really usefull and I'll need to use it somewhere soon.
+
+### Day 2: July 10, Friday
+
+**Today's Progress**: Finished React section @freeCodeCamp and learned about inline styles and how to render elements with conditional statements also I tried Flexbox Challenge #1 from Kevin Powell's Conquering Responsive Layouts course.
+
+**Thoughts** : The Conquering Responsive Layouts course is really well structured and it helps you to keep consistency while working on the practical challenges, each day one section is available.For 21 days.
+**Link(s) to work**
+1. [React freeCodeCamp](https://www.freecodecamp.org/learn)
+2.[Flexbox Challenge #1](https://codepen.io/ddamlapinar/pen/vYLrZWa)
+
  
 
